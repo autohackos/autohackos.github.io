@@ -1,3 +1,3 @@
 # Update soon
 
-![img](/images/autohack-dark.png)
+![img](static/images/autohack-dark.png)
