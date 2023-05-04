@@ -1,0 +1,29 @@
+BaseUrl= "https://autohackos.com"
+LanguageCode= "en-US"
+Title= "Autohack OS"
+paginate = 5
+DisqusShortname = ""
+Copyright = "All rights reserved - 2023"
+canonifyurls = true
+
+[author]
+  name = "Auto Hack OS"
+
+[permalinks]
+    post = "/post/:year/:month/:day/:slug"
+
+[params]
+  description = "Rev up your pentesting game with AutoAck OS"
+  cover = "images/user.jpg"
+  author = "Auto Hack OS"
+  authorlocation = "INDIA"
+  authorwebsite = "https://autohackos.com"
+  bio= "Meet the mastermind behind AutoAck OS - a tech-savvy gearhead who's always tinkering with code and engines alike. When he's not busy hacking cars, he can be found cruising around in his souped-up ride, blasting classic rock and dreaming up new ways to outsmart the bad guys. Rumor has it that he once hacked a smart car to play the theme song from 'Knight Rider' every time he started the engine. But who knows - it could just be an urban legend. All we know for sure is that he's the kind of guy who can make a computer purr like a kitten and a car roar like a lion"
+  logo = "images/user.png"
+  googleAnalyticsUserID = ""
+  # Optional RSS-Link, if not provided it defaults to the standard index.xml
+  RSSLink = ""
+  githubName = "autohackos"
+  twitterName = "autohackos"
+  hideHUGOSupport = true
+  mainSections = ["post"]
