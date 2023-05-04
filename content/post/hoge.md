@@ -1,6 +1,6 @@
 +++
 author = "autohackos"
-tags = [""]
+tags = ["download"]
 comments = false
 date = "2023-05-01"
 draft = false
