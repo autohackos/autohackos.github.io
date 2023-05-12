@@ -5,7 +5,8 @@
 {{- $buttonText := index $section6 "buttontext" }}
 {{- $buttonLink := index $section6 "buttonlink" }}
 {{- $gpglink    := index $section6 "gpglink" }}
-{{- $filesize   := index $section6 "filesize" }}}
+{{- $filesize   := index $section6 "filesize" }}
+{{- $password   := index $section6 "password" }}
 
 
 <section class="section section-feature-grey is-medium" id="section6">
@@ -14,8 +15,8 @@
       <h2 class="title is-2">{{ $title }}</h2> </div></br><br>
         <h3 class="subtitle is-5 is-muted"><b>File Size:</b> {{ $filesize }}</h3><br>
       <h3 class="subtitle is-5 is-muted"><b>GPG Key:</b> <a href="{{ $gpglink }}">{{ $gpg }}</a></h3><br>
-      <h3 class="subtitle is-5 is-muted"><b>SHA256 Hash:</b> {{ $SHA256 }}</h3>
-
+      <h3 class="subtitle is-5 is-muted"><b>SHA256 Hash:</b> {{ $SHA256 }}</h3><br>
+      <h3 class="subtitle is-5 is-muted"><b>7z password:</b> {{ $password }}</h3><br>
       <p class="has-text-centered mt-20">
         <a class="button cta is-large rounded primary-btn raised" href="{{ $buttonLink }}">
           {{ $buttonText }}
