@@ -9,7 +9,7 @@ module:
     path: github.com/StefMa/hugo-fresh
 
 
-googleAnalytics: # Put in your tracking code without quotes like this: UA-XXX for universal tracking or G-XXX analytics v4 tracking
+googleAnalytics: G-N0WQZ96Z14
 # Disables warnings
 # disableKinds = ["taxonomy", "taxonomyTerm", "page", "section", "render", "sitemap"]
 
