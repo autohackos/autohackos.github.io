@@ -200,7 +200,7 @@ params:
   section6:
     title: Verify Download
     gpg: F57281879F11FCCE76E874672E905BD3289192A4
-    password: "autohackos"
+    password: "autohack"
     gpglink: "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x2e905bd3289192a4"
     SHA256: 2A40ADA7322A887ABF612909CF1F241AE7423955C1EE83E48E4BFD268E1F0AE7
     #image: illustrations/mockups/app-mockup.png
