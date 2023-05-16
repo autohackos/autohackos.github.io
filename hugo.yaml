@@ -204,8 +204,8 @@ params:
     gpglink: "https://keyserver.ubuntu.com/pks/lookup?op=get&search=0x2e905bd3289192a4"
     SHA256: 2A40ADA7322A887ABF612909CF1F241AE7423955C1EE83E48E4BFD268E1F0AE7
     #image: illustrations/mockups/app-mockup.png
-    buttonText: Download Now
-    buttonLink: "https://download.autohackos.com/AutoHack.7z"
+    buttonText: Download Now(OneDrive)
+    buttonLink: "https://bit.ly/autohackos"
     filesize: "35.7 GB"
 
   footer:
